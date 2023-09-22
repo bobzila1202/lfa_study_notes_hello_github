@@ -149,9 +149,15 @@
     {
       "name": "Balram Singh",
       "github": "bobzila1202",
-      "materials": [{
+      "materials": [
+	{
         "type": "cv"
-    }]
+    	},
+	{
+	"type":  "video",
+	"url": "ViUS11KgTXg"
+    	}
+      ]
     },
     {
       "name": "Nathan Smith",
